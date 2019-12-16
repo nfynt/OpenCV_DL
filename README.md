@@ -1,2 +1,2 @@
 # OpenCV_DL
-Learnings from opencv with deep learning
+Opencv with deep learning
